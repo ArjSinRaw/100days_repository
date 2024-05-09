@@ -1,0 +1,4 @@
+import random
+list =['Arjun', 'Veeransh','Harshada']
+random_name = random.choice(list)
+print(f"{random_name} shall make the payment today")
