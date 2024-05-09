@@ -1,1 +1,2 @@
 print("Arbit")
+print("arbit")
